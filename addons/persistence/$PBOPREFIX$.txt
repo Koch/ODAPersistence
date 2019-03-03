@@ -1,0 +1,7 @@
+﻿///<'oda_persistence.pbo' properties via Mikero's dos tools, dll version 7.16>///
+prefix=x\oda\addons\persistence
+Mikero=DePbo.dll.7.16
+version=Mon Feb 25 21:27:46 2019
+//Pbo Type is: Arma Addon
+//Sha: '25198E7B85E1BFF6FA09AB2A65FB0F0A2B02F4BA'
+//////</properties>//////
